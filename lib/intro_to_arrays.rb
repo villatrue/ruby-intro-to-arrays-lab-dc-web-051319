@@ -18,14 +18,14 @@ def last_element(taylor_swift)
   taylor_swift[-1]
 end
 
-def first_element_with_array_methods
-  
+def first_element_with_array_methods(taylor_swift)
+  taylor_swift.shift
 end
 
-def last_element_with_array_methods
-  taylor_swift
+def last_element_with_array_methods(taylor_swift)
+  taylor_swift.pop
 end
 
-def length_of_array
+def length_of_array(taylor_swift)
   taylor_swift.length
 end
