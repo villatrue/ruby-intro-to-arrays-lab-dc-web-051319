@@ -17,3 +17,15 @@ end
 def last_element(taylor_swift)
   taylor_swift[-1]
 end
+
+def first_element_with_array_methods
+  
+end
+
+def last_element_with_array_methods
+  taylor_swift
+end
+
+def length_of_array
+  taylor_swift.length
+end
